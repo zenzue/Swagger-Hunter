@@ -4,6 +4,7 @@
 Swagger Hunter is a single-file Python tool to **discover Swagger/OpenAPI** and run **professional-grade API security tests** against systems you own or have written permission to assess.
 
 > ⚠️ Use responsibly. Obtain written permission before testing any non-owned system.
+> ⚠️ There has some fault positive. Just v1
 
 ---
 
